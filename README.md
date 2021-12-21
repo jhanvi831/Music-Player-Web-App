@@ -17,3 +17,6 @@ Play previous song
 Play next song
 Pause or play again
 Auto play
+
+
+![Image 1](https://user-images.githubusercontent.com/68302187/146944457-ff538d8e-f362-4286-91b2-dbd10881e50f.png)
