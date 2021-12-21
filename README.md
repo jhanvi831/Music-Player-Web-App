@@ -1,4 +1,5 @@
 # Music-Player-Web-App
+
 A simple customized music player web application using HTML, CSS and Java-Script.
 Just add the songs that you wnat to listen to in the list and listen to them whenever you want.
 
@@ -9,14 +10,17 @@ To use this:
 2. Download the images you want to use as side images for the song being played and add then in the img folder containing all images as img-1, img-2...
 3. Html, css and javascript files can be used as it is with slight changes of your new list of songs and their artists.
 
-alternative: You could also check the deployed link for this: https://jhanvi831.github.io/Music-Player-Web-App/
+*alternative: You could also check the deployed link for this: https://jhanvi831.github.io/Music-Player-Web-App/
 
-*Features:*
-Increase or decrease the volume
-Play previous song
-Play next song
-Pause or play again
-Auto play
+
+**Features:
+Increase or decrease the volume |
+Play previous song |
+Play next song |
+Pause or play again |
+Auto play**
+
+
 
 
 ![Image 1](https://user-images.githubusercontent.com/68302187/146944457-ff538d8e-f362-4286-91b2-dbd10881e50f.png)
