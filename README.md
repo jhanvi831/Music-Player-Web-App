@@ -10,7 +10,7 @@ No installation is required.
 2. Download the images you want to use as side images for the song being played and add then in the img folder containing all images as img-1, img-2...
 3. Html, css and javascript files can be used as it is with slight changes of your new list of songs and their artists.
 
-****alternative: You could also check the deployed link for this: https://jhanvi831.github.io/Music-Player-Web-App/
+***alternative: You could also check the deployed link for this: https://jhanvi831.github.io/Music-Player-Web-App/ ***
 
 
 **Features:**
